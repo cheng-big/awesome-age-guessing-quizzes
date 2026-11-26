@@ -35,7 +35,6 @@ Last checked: 2026-11-26.
 - **[Davemi — Mental Age Test](https://www.davemi.com/tests/mental-age-test)** — 20 questions · time varies · free · no sign-up · uses everyday situations about bedtime, technology, music, and money.
 - **[FastshotAI — How Old Do I Seem?](https://fastshotai.com/c/guess-my-age-quiz)** — 6 questions · short format · free · no sign-up · estimates the age you seem from texting, sleep, music, slang, and snack habits.
 - **[MentalAgeCheck — Guess My Age Quiz](https://mentalagecheck.com/guess-my-age-quiz/)** — 10 questions · time varies · free to start · a text-based guess-your-age quiz based on habits, slang, and tastes.
-- **[Soulwisp — Guess My Age](https://soulwisp.com/quiz/age-guess)** — 8–14 questions · time varies · a browser quiz that adapts follow-up questions around music, television, technology, and childhood memories.
 
 ## Related lists
 
